@@ -4,25 +4,29 @@ Motivated by [24 Ultimate Data Science Projects To Boost Your Knowledge and Skil
 
 ## Built in
 
-1. [Python 3](https://www.python.org/) ![Python](https://www.python.org/static/img/python-logo.png)
+1. [Python 3](https://www.python.org/) 
 
-Libraries:
-   * [scikit learn](https://scikit-learn.org/stable/index.html)
-   * [pandas](https://pandas.pydata.org/)
-   * [seaborn](https://seaborn.pydata.org/)
-   * [keras](https://keras.io/)
+Libraries: [scikit learn](https://scikit-learn.org/stable/index.html), [pandas](https://pandas.pydata.org/), [seaborn](https://seaborn.pydata.org/), [keras](https://keras.io/)
 
-2. [R](https://www.r-project.org/) ![R](https://www.r-project.org/Rlogo.png)
+2. [R](https://www.r-project.org/)
 
 ## Classification
 
-1. Iris Species
+1. [Iris Species](./Iris)
 
-[Dataset](https://www.kaggle.com/uciml/iris) includes 3 Iris species with 50 samples each and 4 properties, i.e., Sepal Length, Sepal Width, Petal Lenth, Petal Width (in cm).
+[Dataset](https://www.kaggle.com/uciml/iris): 3 Iris species with 50 samples each and 4 properties, i.e., Sepal Length, Sepal Width, Petal Lenth, Petal Width (in cm).
+
+Problem: classify 3 Iris species
 
 Classification techniques: Logistic Regression, Naive Bayes, kNN, SVM, Decision Tree, Boosted Tree, Random Forest, MLP
 
-[Python notebook](./Classification/Iris/Iris.ipynb)
+2. [Loan Prediction](./LoanPrediction)
+
+[Dataset](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/): custumers' details such as Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others.
+
+Problem: automate loan eligibility (Y/N) process
+
+Classification techniques: Linear SVC, SVC, kNN, Random Forest
 
 ## Regression
 
@@ -35,4 +39,4 @@ Classification techniques: Logistic Regression, Naive Bayes, kNN, SVM, Decision 
 Every notebook attachs helpful reading-materials. Here are some general ones:
 * [scikit-learn algorithm cheat-sheet](https://scikit-learn.org/stable/_static/ml_map.png)
 * [When to Use MLP, CNN, and RNN Neural Networks](https://machinelearningmastery.com/when-to-use-mlp-cnn-and-rnn-neural-networks/)
-
+* [Exploratory Data Analysis](https://www.itl.nist.gov/div898/handbook/eda/eda.htm)
