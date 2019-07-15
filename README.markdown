@@ -24,7 +24,7 @@ Classification techniques: Logistic Regression, Naive Bayes, kNN, SVM, Decision 
 
 [Dataset](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/): custumers' details such as Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others.
 
-Problem: automate loan eligibility (Y/N) process
+Problem: predict loan eligibility (Y/N)
 
 Classification techniques: Linear SVC, SVC, kNN, Random Forest
 
