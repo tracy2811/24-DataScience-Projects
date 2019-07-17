@@ -4,11 +4,9 @@ Motivated by [24 Ultimate Data Science Projects To Boost Your Knowledge and Skil
 
 ## Built in
 
-1. [Python 3](https://www.python.org/) 
+- [Python 3](https://www.python.org/) 
 
 Libraries: [scikit learn](https://scikit-learn.org/stable/index.html), [pandas](https://pandas.pydata.org/), [seaborn](https://seaborn.pydata.org/), [keras](https://keras.io/)
-
-2. [R](https://www.r-project.org/)
 
 ## Classification
 
