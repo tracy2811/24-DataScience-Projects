@@ -30,6 +30,14 @@ Classification techniques: Linear SVC, SVC, kNN, Random Forest
 
 ## Regression
 
+3. [Bigmart Sales](./BigmartSales)
+
+[Dataset](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/): 2013 sales data for 1559 products across 10 stores in different cities with certain attributes of each product and store such as weight, maximum retail price, size of store and so on.
+
+Problem: predict sales
+
+Regression techniques: Linear Regression
+
 ## Clustering
 
 ## Dimensionality reduction
