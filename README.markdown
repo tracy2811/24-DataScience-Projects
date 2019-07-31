@@ -36,6 +36,14 @@ Problem: predict sales
 
 Regression techniques: Linear Regression
 
+4. [Boston House Price](./BostonHousePrice)
+
+[Dataset](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html): 506 cases with 14 attributes for each.
+
+Problem: predict NOX (nitrous oxide level) and MEDV (median value of a home price)
+
+Regression techniques: 
+
 ## Clustering
 
 ## Dimensionality reduction
