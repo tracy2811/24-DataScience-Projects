@@ -10,7 +10,7 @@ Libraries: [scikit learn](https://scikit-learn.org/stable/index.html), [pandas](
 
 ## Classification
 
-1. [Iris Species](./Iris)
+1. [**Iris Species**](./Iris)
 
 [Dataset](https://www.kaggle.com/uciml/iris): 3 Iris species with 50 samples each and 4 properties, i.e., Sepal Length, Sepal Width, Petal Lenth, Petal Width (in cm).
 
@@ -18,7 +18,7 @@ Problem: classify 3 Iris species
 
 Classification techniques: Logistic Regression, Naive Bayes, kNN, SVM, Decision Tree, Boosted Tree, Random Forest, MLP
 
-2. [Loan Prediction](./LoanPrediction)
+2. [**Loan Prediction**](./LoanPrediction)
 
 [Dataset](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/): custumers' details such as Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others.
 
@@ -28,7 +28,7 @@ Classification techniques: Linear SVC, SVC, kNN, Random Forest
 
 ## Regression
 
-3. [Bigmart Sales](./BigmartSales)
+3. [**Bigmart Sales**](./BigmartSales)
 
 [Dataset](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/): 2013 sales data for 1559 products across 10 stores in different cities with certain attributes of each product and store such as weight, maximum retail price, size of store and so on.
 
@@ -36,7 +36,7 @@ Problem: predict sales
 
 Regression techniques: Linear Regression
 
-4. [Boston House Price](./BostonHousePrice)
+4. [**Boston House Price**](./BostonHousePrice)
 
 [Dataset](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html): 506 cases with 14 attributes for each.
 
