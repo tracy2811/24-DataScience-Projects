@@ -34,7 +34,7 @@ Classification techniques: Linear SVC, SVC, kNN, Random Forest
 
 Problem: predict sales
 
-Regression techniques: Linear Regression
+Regression techniques: Linear Regression, Neural Network
 
 4. [**Boston House Price**](./BostonHousePrice)
 
@@ -42,7 +42,7 @@ Regression techniques: Linear Regression
 
 Problem: predict NOX (nitrous oxide level) and MEDV (median value of a home price)
 
-Regression techniques: 
+Regression techniques: Linear Regression, ElasticNetCV, LassoCV
 
 ## Clustering
 
