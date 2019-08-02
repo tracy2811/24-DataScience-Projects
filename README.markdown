@@ -1,4 +1,4 @@
-# 24 Data Science Projects
+# Data Science Projects
 
 Motivated by [24 Ultimate Data Science Projects To Boost Your Knowledge and Skills (& can be accessed freely)](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
 
