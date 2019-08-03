@@ -44,6 +44,12 @@ Problem: predict NOX (nitrous oxide level) and MEDV (median value of a home pric
 
 Regression techniques: Linear Regression, ElasticNetCV, LassoCV
 
+5. [**Time Series**](./TimeSeries)
+
+[Dataset](https://datahack.analyticsvidhya.com/contest/practice-problem-time-series-2/): 
+
+Problem: 
+
 ## Clustering
 
 ## Dimensionality reduction
