@@ -26,6 +26,10 @@ Problem: predict loan eligibility (Y/N)
 
 Classification techniques: Linear SVC, SVC, kNN, Random Forest
 
+6. [**Wine Quality**](./Wine Quality)
+
+[Dataset](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
+
 ## Regression
 
 3. [**Bigmart Sales**](./BigmartSales)
