@@ -62,7 +62,7 @@ Problem:
 
 Every notebook attachs helpful reading-materials. Here are some general ones:
 
-1. Choosing models
+1. **Choosing models**
 
 ![scikit-learn algorithm cheat-sheet](https://scikit-learn.org/stable/_static/ml_map.png "scikit-learn algorithm cheat-sheet")
 * [When to Use MLP, CNN, and RNN Neural Networks](https://machinelearningmastery.com/when-to-use-mlp-cnn-and-rnn-neural-networks/)
@@ -70,7 +70,7 @@ Every notebook attachs helpful reading-materials. Here are some general ones:
 
 * [11 Classical Time Series Forecasting Methods in Python (Cheat Sheet)](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
 
-2. Choosing features
+2. **Choosing features**
 
 * [Exploratory Data Analysis](https://www.itl.nist.gov/div898/handbook/eda/eda.htm)
 * [How to Handle Missing Data](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)
