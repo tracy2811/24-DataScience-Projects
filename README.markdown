@@ -30,6 +30,10 @@ Classification techniques: Linear SVC, SVC, kNN, Random Forest
 
 [Dataset](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 
+Problem:
+
+Classification techniques:
+
 ## Regression
 
 3. [**Bigmart Sales**](./BigmartSales)
@@ -55,6 +59,12 @@ Regression techniques: Linear Regression, ElasticNetCV, LassoCV
 Problem: 
 
 ## Clustering
+
+7. [**Turkiye Student Evaluation**](./StudentEvaluation)
+
+[Dataset](http://archive.ics.uci.edu/ml/datasets/turkiye+student+evaluation)
+
+Problem:
 
 ## Dimensionality reduction
 
