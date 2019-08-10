@@ -64,7 +64,7 @@ Every notebook attachs helpful reading-materials. Here are some general ones:
 
 1. Choosing models
 
-* [scikit-learn algorithm cheat-sheet](https://scikit-learn.org/stable/_static/ml_map.png)
+![scikit-learn algorithm cheat-sheet](https://scikit-learn.org/stable/_static/ml_map.png "scikit-learn algorithm cheat-sheet")
 * [When to Use MLP, CNN, and RNN Neural Networks](https://machinelearningmastery.com/when-to-use-mlp-cnn-and-rnn-neural-networks/)
 * [Regularization: Ridge, Lasso and Elastic Net](https://www.datacamp.com/community/tutorials/tutorial-ridge-lasso-elastic-net)
 
