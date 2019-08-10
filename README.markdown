@@ -68,6 +68,8 @@ Every notebook attachs helpful reading-materials. Here are some general ones:
 * [When to Use MLP, CNN, and RNN Neural Networks](https://machinelearningmastery.com/when-to-use-mlp-cnn-and-rnn-neural-networks/)
 * [Regularization: Ridge, Lasso and Elastic Net](https://www.datacamp.com/community/tutorials/tutorial-ridge-lasso-elastic-net)
 
+* [11 Classical Time Series Forecasting Methods in Python (Cheat Sheet)](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
+
 2. Choosing features
 
 * [Exploratory Data Analysis](https://www.itl.nist.gov/div898/handbook/eda/eda.htm)
