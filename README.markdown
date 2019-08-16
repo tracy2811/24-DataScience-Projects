@@ -62,9 +62,11 @@ Problem:
 
 7. [**Turkiye Student Evaluation**](./StudentEvaluation)
 
-[Dataset](http://archive.ics.uci.edu/ml/datasets/turkiye+student+evaluation)
+[Dataset](http://archive.ics.uci.edu/ml/datasets/turkiye+student+evaluation): 5820 evaluation scores provided by students from Gazi University in Ankara (Turkey), total of 28 course specific questions and additional 5 attributes.
+	
+Problem: Cluster
 
-Problem:
+Clustering techniques: KMeans, MeanShift, BayesianGaussianMixture, AgglomerativeClustering
 
 ## Dimensionality reduction
 
