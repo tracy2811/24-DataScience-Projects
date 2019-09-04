@@ -58,7 +58,7 @@ Regression techniques: Linear Regression, ElasticNetCV, LassoCV
 
 Problem: 
 
-8. ['Height Weight Prediction'](./WeightHeight)
+8. [**Height Weight Prediction**](./WeightHeight)
 
 [Dataset](https://www.kaggle.com/mustafaali96/weight-height): Height and weight records of 5000 men and 5000 women.
 
